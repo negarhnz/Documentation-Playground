@@ -1,9 +1,8 @@
----
-title: دپلیکیشن
-description: نرم‌افزار خانواده‌های مجازی
----
+
 
 <div style="direction: rtl; text-align: justify;">
+
+#  دپلیکیشن 
 
 ## تعریف دپلیکیشن 
 
